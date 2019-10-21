@@ -26,7 +26,7 @@
                 </div>
             </div>
             @empty
-            <div class="card mb-5 shadow-sm mt-5">
+            <div class="card mb-5 shadow-sm">
                 <div class="card-body text-center">
                     <h5 class="card-titulo text-danger">Não encontrado!!</h5>
                     <p class="card-text">Nenhum post encontrado.</p>
